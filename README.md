@@ -11,50 +11,26 @@
 # Introduction Yoshida
 > Yoshida is a WhatsApp Bot with many multifunctional features, using Baileys 🔥 For Free
 
----------
+```
 
-## Arguments `node . [--options] [<session name>]`
-### `Contoh: node . --pairing`
+### Install and run
+```
+$ npm install
+$ npm start
+```
 
-### `--pairing`
-Link device via pairing
+## Install & Run use PM2
 
-### `--mobile`
-Link device via mobile captcha (blm tes, rawan ban katanya)
+```
+$ npm install pm2 -g
+$ npm install
+$ pm2 start index.js && pm2 save && pm2 logs
+```
 
-### `--self`
-Mode self (gak ada yang bisa gunakan, kecuali nomor bot dan owner)
+### Argument node . [--options]
 
-### `--pconly`
-Bot cuma bisa dipakai di Private Chat (kecuali user premium)
-
-### `--gconly`
-Bot cuma bisa dipakai di Grup (kecuali user premium)
-
-### `--swonly`
-bot cuma respon dari status
-
-### `--server`
-Untuk [heroku](https://heroku.com/) atau scan lewat website
-
-### `--restrict`
-Enables restricted plugins (which can lead your number to be **banned** if used too often)
-
-* Group Administration `add, kick`
-
-### `--autoread`
-Autoread pesan
-
-### `--nyimak`
-Bot nyimak doang, nampilin pesan di console dan add user ke database
-
-### `--test`
-**Development** Testing Mode
-
-### `--db`
-pass mongodb url or cloud url to connect to database, by the default it will connect to database.json
-
----------
++ ```node . --pairing``` : For those of you who login using a code, use this command in the terminal
++ ```node . --db 'mongodb uri'``` : If you want to connect the database to mongodb use this command
 
 ### Cara set Nomor Owner ?
 
@@ -84,9 +60,8 @@ Wanna see all the bot commands? lookout our main bot [here](https://wa.me/263788
 
 ### Requirements
 
-- [x] NodeJS v18 or higher
-- [x] FFMPEG
-- [x] Server vCPU/RAM 1/2GB
+- [x] Apikey
+- [x] Tempat Run
 
 > The requirements above are the minimum requirements to running the bot. Upgrade it higher for better experience
 
