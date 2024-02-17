@@ -106,9 +106,10 @@ Got any questions or feedback? Join our WhatsApp Group: [WhatsApp Group](https:/
 - My Parent
 - All Creator Bot
 
+
 >#### Contributors 
-[![Nurutomo](https://github.com/Nurutomo.png?size=50)](https://github.com/Nurutomo)
-[![BochilGaming](https://github.com/BochilGaming.png?size=50)](https://github.com/BochilGaming)
+[![Nurutomo](https://github.com/Nurutomo.png?size=80)](https://github.com/Nurutomo)
+[![BochilGaming](https://github.com/BochilGaming.png?size=80)](https://github.com/BochilGaming)
 
 >#### Original Base From :
-[![moon-bot](https://github.com/rifnd.png?size=50)](https://github.com/rifnd)
+[![moon-bot](https://github.com/rifnd.png?size=80)](https://github.com/rifnd)
