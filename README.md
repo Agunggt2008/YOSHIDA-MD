@@ -111,7 +111,7 @@ Got any questions or feedback? Join our WhatsApp Group: [WhatsApp Group](https:/
  [![nando](https://github.com/rifnd.png?size=150)](https://github.com/rifnd) | [![Ilman](https://github.com/Adixshnzz.png?size=150)](https://github.com/Adixshnzz) | [![Istikmal](https://github.com/BochilGaming.png?size=150)](https://github.com/BochilGaming)
 ----|----|----
 [Nando.xyz](https://github.com/rifnd) | [My Self](https://github.com/Adixshnzz) | [Istikmal](https://github.com/BochilGaming)
- Base Ori | Gw Yg Recode | Contributor
+ Base Ori | Owner | Contributor
 
 ## Donate
 - [Saweria](https://saweria.co/Adisptro)
