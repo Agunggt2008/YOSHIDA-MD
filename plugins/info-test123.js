@@ -5,7 +5,7 @@ const { generateWAMessageFromContent } = require("@whiskeysockets/baileys")
 
 let handler  = async (m, { conn }) => {
 let _uptime = process.uptime() * 1000
-let tio = clockString(_uptime)
+let adi = clockString(_uptime)
 let time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 let pp = await conn.profilePictureUrl(who).catch(_ => global.hwaifu.getRandom())
@@ -15,7 +15,7 @@ let msg = await generateWAMessageFromContent(m.chat, { locationMessage: {
   degreesLatitude: 35.685506276233525,
   degreesLongitude: 139.75270667105852,
   name: "Bot Online Bosku",
-  address: `Bot Aktif Selama: ${tio}`,
+  address: `Bot Aktif Selama: ${adi}`,
   url: global.gcl,
   isLive: true,
   accuracyInMeters: 0,
