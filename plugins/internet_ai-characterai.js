@@ -5,7 +5,7 @@ let handler = async (m, { text, usedPrefix, command }) => {
   try {
     let [ logic, prompt ] = text.split('|')
     m.react('⏱️')
-    let res = await fetch(`https://api.botcahx.eu.org/api/search/c-ai?prompt=${prompt}?&char=${logic}&apikey=Bang_Putra`)
+    let res = await fetch(`https://api.botcahx.eu.org/api/search/c-ai?prompt=${prompt}?&char=${logic}&apikey=${global.lann}`)
     let json = await res.json()
     m.reply(json.message)
   } catch (error) {
