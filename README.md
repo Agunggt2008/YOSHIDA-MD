@@ -102,11 +102,13 @@ Wanna see all the bot commands? lookout our main bot [here](https://wa.me/628820
 Got any questions or feedback? Join our WhatsApp Group: [WhatsApp Group](https://chat.whatsapp.com/HnoKcpzYsKE5y0thEM060h)
 
 >### Big Thanks To 
-**Allah SWT**
+-**Allah SWT**
+-**My Parent**
+-**All Creator Bot**
 
 >#### Contributors
-[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
-[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
+[![Nurutomo](https://github.com/Nurutomo.png?size=50)](https://github.com/Nurutomo)
+[![BochilGaming](https://github.com/BochilGaming.png?size=50)](https://github.com/BochilGaming)
 
 >#### Original Base From :
-[![moon-bot](https://github.com/rifnd.png?size=100)](https://github.com/rifnd)
+[![moon-bot](https://github.com/rifnd.png?size=50)](https://github.com/rifnd)
