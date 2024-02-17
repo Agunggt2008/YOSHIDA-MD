@@ -109,10 +109,10 @@ Got any questions or feedback? Join our WhatsApp Group: [WhatsApp Group](https:/
 
 
 ## Customer Support
- [![nando](https://github.com/rifnd.png?size=100)](https://github.com/rifnd) | [![Ilman](https://github.com/Adixshnzz.png?size=100)](https://github.com/Adixshnzz) | [![Istikmal](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
+ [![nando](https://github.com/rifnd.png?size=100)](https://github.com/rifnd) | [![Ilman](https://github.com/Adixshnzz.png?size=100)](https://github.com/Adixshnzz) | [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
 ----|----|----
-[Nando](https://github.com/rifnd) | [Adi](https://github.com/Adixshnzz) | [Istikmal](https://github.com/BochilGaming)
- Base Ori | Owner | Contributor
+[Nando](https://github.com/rifnd) | [Adi](https://github.com/Adixshnzz) | [Nurutomo](https://github.com/Nurutomo)
+ Author | Recoder | Original Base
 
 ## Donate
 - [Saweria](https://saweria.co/Adisptro)
