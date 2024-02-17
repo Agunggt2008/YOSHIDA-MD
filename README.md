@@ -96,21 +96,11 @@ Wanna see all the bot commands? lookout our main bot [here](https://wa.me/628820
 
 > The requirements above are the minimum requirements to running the bot. Upgrade it higher for better experience
 
-### Screenshots
-<details>
-<summary><b>Initial display on Yoshida</b></summary>
-  
-| Thumbnail Menu                              |
-|-----------------------------------|
-| ![sticker](https://telegra.ph/file/2152713035f2ca8ea60e2.jpg) |
-
-</details>
-<br>
-
 > New features will always be added
 
 ## Support Server
 Got any questions or feedback? Join our WhatsApp Group: [WhatsApp Group](https://chat.whatsapp.com/HnoKcpzYsKE5y0thEM060h)
+
 
 #### Original Base From :
 [![moon-bot](https://github.com/rifnd.png?size=100)](https://github.com/rifnd)
