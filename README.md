@@ -9,7 +9,7 @@
 <a href="https://chat.whatsapp.com/HnoKcpzYsKE5y0thEM060h"><img title="Grup" src="https://img.shields.io/badge/Grup WhatsApp Yoshida Bot-green.svg?style=for-the-badge&logo=whatsapp"></a>
 
 # Introduction Yoshida
-> Yoshida is a WhatsApp Bot with many multifunctional features, using [Games-Wabot](https://github.com/rifnd/moon-bot) Base by [Nando.xyz](https://github.com/rifnd)
+> Yoshida is a WhatsApp Bot with many multifunctional features, using [moon-bot](https://github.com/rifnd/moon-bot) Base by [Nando.xyz](https://github.com/rifnd)
 
 ### The features we provide
 - AI: OpenAI, BlackBox, Bard, Bing, AI Character, To Anime, etc.
