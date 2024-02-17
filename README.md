@@ -102,6 +102,16 @@ Jika Mengalami Kesulitan Hubungi kontak Owner:
 ## Support Server
 Got any questions or feedback? Join our WhatsApp Group: [WhatsApp Group](https://chat.whatsapp.com/HnoKcpzYsKE5y0thEM060h)
 
+---------
+
+### 📮 S&K
+1. Not For Sale
+2. Don't forget give star this repo
+3. Don't use this repository wrong!
+4. If you have problem chat me in owner number
+
+---------
+
 ## Big Thanks To 
 - Allah SWT
 - My Parent
