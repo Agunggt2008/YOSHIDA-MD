@@ -9,7 +9,7 @@
 <a href="https://chat.whatsapp.com/HnoKcpzYsKE5y0thEM060h"><img title="Grup" src="https://img.shields.io/badge/Grup WhatsApp Yoshida Bot-green.svg?style=for-the-badge&logo=whatsapp"></a>
 
 # Introduction Yoshida
-> Yoshida is a WhatsApp Bot with many multifunctional features, using Baileys 🔥
+> Yoshida is a WhatsApp Bot with many multifunctional features, using Baileys 🔥 For Free
 
 ---------
 
@@ -42,14 +42,8 @@ Enables restricted plugins (which can lead your number to be **banned** if used 
 
 * Group Administration `add, kick`
 
-### `--img`
-Enable image inspector through terminal
-
 ### `--autoread`
 Autoread pesan
-
-### `--autocleartmp`
-If enabled, **tmp* folder contain files will be auto delete
 
 ### `--nyimak`
 Bot nyimak doang, nampilin pesan di console dan add user ke database
@@ -85,7 +79,7 @@ global.mods = ['62882007855266']
 - Internet: Google Image Search, Weather & Earthquake Information, Random Facts, Random Jokes, Spotify Search, Yandex, etc.
 - Game: Bomb, Werewolf, etc.
 
-Wanna see all the bot commands? lookout our main bot [here](https://wa.me/62882007855266)
+Wanna see all the bot commands? lookout our main bot [here](https://wa.me/263788891104)
 > Will be increased every time it get new updates
 
 ### Requirements
@@ -99,9 +93,6 @@ Wanna see all the bot commands? lookout our main bot [here](https://wa.me/628820
 Jika Mengalami Kesulitan Hubungi kontak Owner:
 [Owner](https://wa.me/62882007855266)
 
-## Support Server
-Got any questions or feedback? Join our WhatsApp Group: [WhatsApp Group](https://chat.whatsapp.com/HnoKcpzYsKE5y0thEM060h)
-
 ---------
 
 ### 📮 S&K
@@ -112,7 +103,7 @@ Got any questions or feedback? Join our WhatsApp Group: [WhatsApp Group](https:/
 
 ---------
 
-## Big Thanks To 
+## ✨ Big Thanks To
 - Allah SWT
 - My Parent
 - All Creator Bot
