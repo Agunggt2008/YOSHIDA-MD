@@ -101,14 +101,14 @@ Wanna see all the bot commands? lookout our main bot [here](https://wa.me/628820
 ## Support Server
 Got any questions or feedback? Join our WhatsApp Group: [WhatsApp Group](https://chat.whatsapp.com/HnoKcpzYsKE5y0thEM060h)
 
-# Big Thanks To 
+## Big Thanks To 
 - Allah SWT
 - My Parent
 - All Creator Bot
 
 
-# Customer Support
- [![nando](https://github.com/rifnd.png?size=150)](https://github.com/rifnd) | [![Ilman](https://github.com/Adixshnzz.png?size=150)](https://github.com/Adixshnzz) | [![Istikmal](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
+## Customer Support
+ [![nando](https://github.com/rifnd.png?size=100)](https://github.com/rifnd) | [![Ilman](https://github.com/Adixshnzz.png?size=100)](https://github.com/Adixshnzz) | [![Istikmal](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
 ----|----|----
 [Nando](https://github.com/rifnd) | [My Self](https://github.com/Adixshnzz) | [Istikmal](https://github.com/BochilGaming)
  Base Ori | Owner | Contributor
