@@ -102,11 +102,10 @@ Wanna see all the bot commands? lookout our main bot [here](https://wa.me/628820
 Got any questions or feedback? Join our WhatsApp Group: [WhatsApp Group](https://chat.whatsapp.com/HnoKcpzYsKE5y0thEM060h)
 
 ### Big Thanks To 
-**Allah SWT**,
-**My Friends**,
-**All Creator Bot**,
+**Allah SWT**
 
-[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
+#### Contributors
+[Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
 
 #### Original Base From :
