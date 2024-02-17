@@ -15,14 +15,14 @@
 
 ### Install and run
 
-$ npm install
-$ npm start
+- $ npm install
+- $ npm start
 
 ## Install & Run use PM2
 
-$ npm install pm2 -g
-$ npm install
-$ pm2 start index.js && pm2 save && pm2 logs
+- $ npm install pm2 -g
+- $ npm install
+- $ pm2 start index.js && pm2 save && pm2 logs
 
 ### Argument node . [--options]
 
