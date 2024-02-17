@@ -64,11 +64,11 @@ pass mongodb url or cloud url to connect to database, by the default it will con
 
 ### Cara set Nomor Owner ?
 
-> Via command: .addowner saat bot berjalan, atau set dalam file `config.js`, di global.owner..
+> Via command: .addowner saat bot berjalan, atau set dalam file `config.js`, cari global.owner
 ```js
-global.mods = ['6282337245566']
+global.mods = ['62882007855266']
 ```
-> Contoh nomor `6282337245566`, bisa add lebih dari 1
+> Contoh nomor `62882007855266`, bisa add lebih dari 1
 
 ---------
 
@@ -96,7 +96,8 @@ Wanna see all the bot commands? lookout our main bot [here](https://wa.me/628820
 
 > The requirements above are the minimum requirements to running the bot. Upgrade it higher for better experience
 
-> New features will always be added
+Jika Mengalami Kesulitan Hubungi kontak Owner:
+[Owner](https://wa.me/62882007855266)
 
 ## Support Server
 Got any questions or feedback? Join our WhatsApp Group: [WhatsApp Group](https://chat.whatsapp.com/HnoKcpzYsKE5y0thEM060h)
