@@ -11,26 +11,25 @@
 # Introduction Yoshida
 > Yoshida is a WhatsApp Bot with many multifunctional features, using Baileys 🔥 For Free
 
-```
+---------
 
 ### Install and run
-```
+
 $ npm install
 $ npm start
-```
 
 ## Install & Run use PM2
 
-```
 $ npm install pm2 -g
 $ npm install
 $ pm2 start index.js && pm2 save && pm2 logs
-```
 
 ### Argument node . [--options]
 
-+ ```node . --pairing``` : For those of you who login using a code, use this command in the terminal
-+ ```node . --db 'mongodb uri'``` : If you want to connect the database to mongodb use this command
+- node . --pairing : For those of you who login using a code, use this command in the terminal
+- node . --db 'mongodb url' : If you want to connect the database to mongodb use this command
+
+---------
 
 ### Cara set Nomor Owner ?
 
