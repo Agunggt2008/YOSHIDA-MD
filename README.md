@@ -1,6 +1,6 @@
-![cover](https://telegra.ph/file/2152713035f2ca8ea60e2.jpg)
+![cover](https://telegra.ph/file/503bfc9fac676b2274ebe.jpg)
 
-<h1 align="center">Yoshida - Bot</h1>
+<h1 align="center">Yoshida Multi Device</h1>
 
 <p align="center">
 <a href="https://wa.me/62882007855266"><img title="Grup" src="https://img.shields.io/badge/Contact to Owner-black.svg?style=for-the-badge&logo=whatsapp"></a>
