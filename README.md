@@ -26,7 +26,9 @@
 
 ### Argument node . [--options]
 
-- node . --pairing : For those of you who login using a code, use this command in the terminal
+- Menggunakan QR dan pairing code 
+- Use pairing ```node . --pairing``` 
+- Fitur 90% implementasi dari website api
 - node . --db 'mongodb url' : If you want to connect the database to mongodb use this command
 
 ---------
@@ -39,6 +41,13 @@ global.mods = ['62882007855266']
 ```
 > Contoh nomor `62882007855266`, bisa add lebih dari 1
 
+---------
+```javascript
+// to get pairing code //
+
+node index.js --pairing
+
+```
 ---------
 
 ### The features we provide
