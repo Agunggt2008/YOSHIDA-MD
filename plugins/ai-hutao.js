@@ -1,4 +1,5 @@
 //remake by bang Adi Thx
+// Apikey Ambil Sendiri di https://api.caliph.biz.id
 //Jangan di hapus !!
 /*const fetch = require('node-fetch');
 let handler = async (m, { conn, text, usedPrefix, command }) => {
@@ -6,7 +7,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   
   if (!text) throw 'masukan pertanyaan! nanti Gw akan berusaha menjawabnya';
 
-  let api = await fetch(`https://api.caliph.biz.id/api/ai/c-ai?q=${text}!&char=Hu%20Tao&apikey=mpOPSMe6`);
+  let api = await fetch(`https://api.caliph.biz.id/api/ai/c-ai?q=${text}!&char=Hu%20Tao&apikey=${global.caliph}`);
   let json = await api.json();
 m.reply(json)
   } catch (e) {
