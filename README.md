@@ -96,7 +96,7 @@ Jika Mengalami Kesulitan Hubungi kontak Owner:
  [![nando](https://github.com/rifnd.png?size=100)](https://github.com/rifnd) | [![Ilman](https://github.com/Adixshnzz.png?size=100)](https://github.com/Adixshnzz) | [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
 ----|----|----
 [Nando](https://github.com/rifnd) | [Adi](https://github.com/Adixshnzz) | [Nurutomo](https://github.com/Nurutomo)
- Author | Recoder | Original Base
+ Author | Remaker | Original Base
 
 ## Donate
 - [Saweria](https://saweria.co/Adisptro)
