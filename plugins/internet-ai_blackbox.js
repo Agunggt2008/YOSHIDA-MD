@@ -4,7 +4,7 @@ let handler = async(m, {
     text
   }) => {
     try {
-      if (!text) return m.reply(Func.example(usedPrefix, command, 'moon-bot'))
+      if (!text) return m.reply(Func.example(usedPrefix, command, 'Elon Musk'))
       conn.react(m.chat, '🕒', m.key)
       const json = await Func.fetchJson(API('alya', '/api/blackbox-ai', { prompt: text }, 'apikey'))
       if (!json.status) return m.reply(Func.jsonFormat(json))
