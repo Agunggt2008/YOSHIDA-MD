@@ -1,4 +1,4 @@
-// Thanks To Kasan
+// Thanks To Adi Saputra 
 
 let didyoumean = require('didyoumean')
 let similarity = require('similarity')
