@@ -4,7 +4,7 @@ let handler = async (m, {
   text
 }) => {
   try {
-    if (!text) return m.reply(Func.example(usedPrefix, command, 'moon-bot'))
+    if (!text) return m.reply(Func.example(usedPrefix, command, 'Elon Musk'))
     m.react('🕒')
     let q = m.quoted ? m.quoted : m
     let mime = (q.msg || q).mimetype || ''
