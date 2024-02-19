@@ -6,7 +6,7 @@ let putra = `*Sama sama*`.trim()
           
   
   }
-handler.customPrefix =/^(terimakasih?|makasih?|thanks)$/i
+handler.customPrefix =/^(terimakasih|makasih|thanks)$/i
 handler.command = new RegExp
 
 module.exports = handler
