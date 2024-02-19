@@ -1,6 +1,6 @@
 let fetch = require('node-fetch')
 let handler = async (m, { conn, command }) => {
-  let res = await fetch(`https://api.botcahx.eu.org/api/randomgambar/couplepp?apikey=Bang_Putra`)
+  let res = await fetch(`https://api.botcahx.eu.org/api/randomgambar/couplepp?apikey=${global.btc}`)
   if (res.status != 200) throw await res.text()
   let json = await res.json()
   if (!json.status) throw json
