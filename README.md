@@ -63,7 +63,7 @@ node index.js --pairing
 - Internet: Google Image Search, Weather & Earthquake Information, Random Facts, Random Jokes, Spotify Search, Yandex, etc.
 - Game: Bomb, Werewolf, etc.
 
-Wanna see all the bot commands? lookout our main bot [here](https://wa.me/6287764651838)
+Wanna see all the bot commands? lookout our main bot [here](https://wa.me/6287764651838?text=.menu)
 > Will be increased every time it get new updates
 
 ### Requirements
