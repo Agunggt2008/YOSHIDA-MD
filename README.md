@@ -24,10 +24,10 @@
 - $ npm install
 - $ pm2 start index.js && pm2 save && pm2 logs
 
-### Argument node . [--options]
+### Argument node . [ --options ]
 
 - Menggunakan QR dan pairing code 
-- Use pairing ```node . --pairing``` 
+- Cara Menggunakan Pairing ```node . --pairing``` 
 - Fitur 90% implementasi dari website api
 - node . --db 'mongodb url' : If you want to connect the database to mongodb use this command
 
@@ -63,7 +63,7 @@ node index.js --pairing
 - Internet: Google Image Search, Weather & Earthquake Information, Random Facts, Random Jokes, Spotify Search, Yandex, etc.
 - Game: Bomb, Werewolf, etc.
 
-Wanna see all the bot commands? lookout our main bot [here](https://wa.me/263788891104)
+Wanna see all the bot commands? lookout our main bot [here](https://wa.me/6287764651838)
 > Will be increased every time it get new updates
 
 ### Requirements
